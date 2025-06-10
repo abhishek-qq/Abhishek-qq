@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Abhishek Mishra! 👋
 
 🚀 Senior Software Engineer | Backend Developer | Java + Spring Boot Expert
