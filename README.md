@@ -18,14 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-mishra&show_icons=true&theme=github_dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mishra&layout=compact&theme=github_dark)
-
----
-
 ## 📂 Notable Projects
 
 - 🔹 **GroChain LMS** – Loan Management System built with Java, Spring Boot
@@ -36,8 +28,8 @@
 
 ## 🤝 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-- 📧 Email: abhishekmishra@example.com
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/abhishek-mishra-b8693a214/])
+- 📧 Email: prabhishekgeetamishra@gmail.com
 
 ---
 
